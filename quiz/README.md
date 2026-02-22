@@ -1,2 +1,0 @@
-# quiz
-My quiz app
